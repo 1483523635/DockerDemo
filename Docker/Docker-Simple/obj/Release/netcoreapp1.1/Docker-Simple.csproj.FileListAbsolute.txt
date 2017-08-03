@@ -1,0 +1,8 @@
+/home/jointown/DockerDemo/Docker/Docker-Simple/bin/Release/netcoreapp1.1/Docker-Simple.deps.json
+/home/jointown/DockerDemo/Docker/Docker-Simple/bin/Release/netcoreapp1.1/Docker-Simple.runtimeconfig.json
+/home/jointown/DockerDemo/Docker/Docker-Simple/bin/Release/netcoreapp1.1/Docker-Simple.runtimeconfig.dev.json
+/home/jointown/DockerDemo/Docker/Docker-Simple/bin/Release/netcoreapp1.1/Docker-Simple.dll
+/home/jointown/DockerDemo/Docker/Docker-Simple/bin/Release/netcoreapp1.1/Docker-Simple.pdb
+/home/jointown/DockerDemo/Docker/Docker-Simple/obj/Release/netcoreapp1.1/Docker-Simple.AssemblyInfo.cs
+/home/jointown/DockerDemo/Docker/Docker-Simple/obj/Release/netcoreapp1.1/Docker-Simple.dll
+/home/jointown/DockerDemo/Docker/Docker-Simple/obj/Release/netcoreapp1.1/Docker-Simple.pdb
