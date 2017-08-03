@@ -1,0 +1,10 @@
+c:\users\coder\Source\Repos\Docker\Docker-Simple\bin\Debug\netcoreapp1.1\Docker-Simple.deps.json
+c:\users\coder\Source\Repos\Docker\Docker-Simple\bin\Debug\netcoreapp1.1\Docker-Simple.runtimeconfig.json
+c:\users\coder\Source\Repos\Docker\Docker-Simple\bin\Debug\netcoreapp1.1\Docker-Simple.runtimeconfig.dev.json
+c:\users\coder\Source\Repos\Docker\Docker-Simple\bin\Debug\netcoreapp1.1\Docker-Simple.dll
+c:\users\coder\Source\Repos\Docker\Docker-Simple\bin\Debug\netcoreapp1.1\Docker-Simple.pdb
+c:\users\coder\Source\Repos\Docker\Docker-Simple\obj\Debug\netcoreapp1.1\Docker-Simple.csprojResolveAssemblyReference.cache
+c:\users\coder\Source\Repos\Docker\Docker-Simple\obj\Debug\netcoreapp1.1\Docker-Simple.csproj.CoreCompileInputs.cache
+c:\users\coder\Source\Repos\Docker\Docker-Simple\obj\Debug\netcoreapp1.1\Docker-Simple.AssemblyInfo.cs
+c:\users\coder\Source\Repos\Docker\Docker-Simple\obj\Debug\netcoreapp1.1\Docker-Simple.dll
+c:\users\coder\Source\Repos\Docker\Docker-Simple\obj\Debug\netcoreapp1.1\Docker-Simple.pdb
